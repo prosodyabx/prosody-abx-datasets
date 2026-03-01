@@ -1,0 +1,599 @@
+utterance_id	speaker	contrast	word	label	text
+en_S001_c01_01	S001	abstract	abstract	1	I read the abstract before the full article.
+en_S001_c01_02	S001	abstract	abstract	1	It's hard to abstract the main idea from his long story.
+en_S001_c01_03	S001	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S001_c01_04	S001	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S001_c02_01	S001	address	address	1	The form includes the address in the middle section.
+en_S001_c02_02	S001	address	address	2	We need to address the noise problem in the room.
+en_S001_c02_03	S001	address	address	2	The home address on the form matches his student record.
+en_S001_c02_04	S001	address	address	2	We should address the main concern before discussing details.
+en_S001_c03_01	S001	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S001_c03_02	S001	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S001_c03_03	S001	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S001_c03_04	S001	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S001_c04_01	S001	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S001_c04_02	S001	discharge	discharge	2	They will discharge the patient later today.
+en_S001_c04_03	S001	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S001_c04_04	S001	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S001_c05_01	S001	discount	discount	1	The store offered a discount during the weekend sale.
+en_S001_c05_02	S001	discount	discount	2	Some people discount his advice too quickly.
+en_S001_c05_03	S001	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S001_c05_04	S001	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S001_c06_01	S001	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S001_c06_02	S001	impact	impact	2	Lack of sleep can impact your mood all day.
+en_S001_c06_03	S001	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S001_c06_04	S001	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S001_c07_01	S001	import	import	1	The price of import goods increased this month.
+en_S001_c07_02	S001	import	import	1	They import fresh fruit from overseas every week.
+en_S001_c07_03	S001	import	import	1	The latest import from Italy sold out within a few days.
+en_S001_c07_04	S001	import	import	1	Local companies import high-quality materials for this project.
+en_S001_c08_01	S001	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S001_c08_02	S001	increase	increase	2	We need to increase the room temperature a little.
+en_S001_c08_03	S001	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S001_c08_04	S001	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S001_c09_01	S001	insert	insert	1	The magazine includes an insert with photos inside.
+en_S001_c09_02	S001	insert	insert	1	He tried to insert the card into the slot slowly.
+en_S001_c09_03	S001	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S001_c09_04	S001	insert	insert	1	He decided to insert a short example into the presentation slides.
+en_S001_c10_01	S001	insult	insult	1	The joke became an insult when he repeated it.
+en_S001_c10_02	S001	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S001_c10_03	S001	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S001_c10_04	S001	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S001_c11_01	S001	permit	permit	1	The parking area requires a permit for long stays.
+en_S001_c11_02	S001	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S001_c11_03	S001	permit	permit	1	A special permit for filming is required inside the building.
+en_S001_c11_04	S001	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S001_c12_01	S001	project	project	1	The final project caused a lot of stress for students.
+en_S001_c12_02	S001	project	project	2	Actors must project their voices during a play.
+en_S001_c12_03	S001	project	project	1	The new project in the lab focuses on child language learning.
+en_S001_c12_04	S001	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S001_c13_01	S001	survey	survey	1	The short survey included only five items.
+en_S001_c13_02	S001	survey	survey	2	Workers will survey the house before renovation.
+en_S001_c13_03	S001	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S001_c13_04	S001	survey	survey	2	Engineers will survey the bridge again after the heavy rain.
+en_S001_c14_01	S001	transport	transport	1	Public transport in the city runs very smoothly.
+en_S001_c14_02	S001	transport	transport	2	Workers will transport the boxes to another floor.
+en_S001_c14_03	S001	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S001_c14_04	S001	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S001_c15_01	S001	upset	upset	1	The emotional upset can affect you for a long time.
+en_S001_c15_02	S001	upset	upset	2	Loud noises can upset the baby easily.
+en_S001_c15_03	S001	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S001_c15_04	S001	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S002_c01_01	S002	abstract	abstract	1	I read the abstract before the full article.
+en_S002_c01_02	S002	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S002_c01_03	S002	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S002_c01_04	S002	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S002_c02_01	S002	address	address	2	The form includes the address in the middle section.
+en_S002_c02_02	S002	address	address	2	We need to address the noise problem in the room.
+en_S002_c02_03	S002	address	address	1	The home address on the form matches his student record.
+en_S002_c02_04	S002	address	address	2	We should address the main concern before discussing details.
+en_S002_c03_01	S002	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S002_c03_02	S002	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S002_c03_03	S002	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S002_c03_04	S002	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S002_c04_01	S002	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S002_c04_02	S002	discharge	discharge	1	They will discharge the patient later today.
+en_S002_c04_03	S002	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S002_c04_04	S002	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S002_c05_01	S002	discount	discount	1	The store offered a discount during the weekend sale.
+en_S002_c05_02	S002	discount	discount	1	Some people discount his advice too quickly.
+en_S002_c05_03	S002	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S002_c05_04	S002	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S002_c06_01	S002	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S002_c06_02	S002	impact	impact	1	Lack of sleep can impact your mood all day.
+en_S002_c06_03	S002	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S002_c06_04	S002	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S002_c07_01	S002	import	import	1	The price of import goods increased this month.
+en_S002_c07_02	S002	import	import	2	They import fresh fruit from overseas every week.
+en_S002_c07_03	S002	import	import	1	The latest import from Italy sold out within a few days.
+en_S002_c07_04	S002	import	import	1	Local companies import high-quality materials for this project.
+en_S002_c08_01	S002	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S002_c08_02	S002	increase	increase	2	We need to increase the room temperature a little.
+en_S002_c08_03	S002	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S002_c08_04	S002	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S002_c09_01	S002	insert	insert	1	The magazine includes an insert with photos inside.
+en_S002_c09_02	S002	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S002_c09_03	S002	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S002_c09_04	S002	insert	insert	1	He decided to insert a short example into the presentation slides.
+en_S002_c10_01	S002	insult	insult	1	The joke became an insult when he repeated it.
+en_S002_c10_02	S002	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S002_c10_03	S002	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S002_c10_04	S002	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S002_c11_01	S002	permit	permit	1	The parking area requires a permit for long stays.
+en_S002_c11_02	S002	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S002_c11_03	S002	permit	permit	1	A special permit for filming is required inside the building.
+en_S002_c11_04	S002	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S002_c12_01	S002	project	project	1	The final project caused a lot of stress for students.
+en_S002_c12_02	S002	project	project	2	Actors must project their voices during a play.
+en_S002_c12_03	S002	project	project	1	The new project in the lab focuses on child language learning.
+en_S002_c12_04	S002	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S002_c13_01	S002	survey	survey	1	The short survey included only five items.
+en_S002_c13_02	S002	survey	survey	1	Workers will survey the house before renovation.
+en_S002_c13_03	S002	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S002_c13_04	S002	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S002_c14_01	S002	transport	transport	1	Public transport in the city runs very smoothly.
+en_S002_c14_02	S002	transport	transport	1	Workers will transport the boxes to another floor.
+en_S002_c14_03	S002	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S002_c14_04	S002	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S002_c15_01	S002	upset	upset	1	The emotional upset can affect you for a long time.
+en_S002_c15_02	S002	upset	upset	2	Loud noises can upset the baby easily.
+en_S002_c15_03	S002	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S002_c15_04	S002	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S003_c01_01	S003	abstract	abstract	1	I read the abstract before the full article.
+en_S003_c01_02	S003	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S003_c01_03	S003	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S003_c01_04	S003	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S003_c02_01	S003	address	address	2	The form includes the address in the middle section.
+en_S003_c02_02	S003	address	address	2	We need to address the noise problem in the room.
+en_S003_c02_03	S003	address	address	2	The home address on the form matches his student record.
+en_S003_c02_04	S003	address	address	2	We should address the main concern before discussing details.
+en_S003_c03_01	S003	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S003_c03_02	S003	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S003_c03_03	S003	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S003_c03_04	S003	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S003_c04_01	S003	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S003_c04_02	S003	discharge	discharge	2	They will discharge the patient later today.
+en_S003_c04_03	S003	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S003_c04_04	S003	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S003_c05_01	S003	discount	discount	1	The store offered a discount during the weekend sale.
+en_S003_c05_02	S003	discount	discount	2	Some people discount his advice too quickly.
+en_S003_c05_03	S003	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S003_c05_04	S003	discount	discount	2	Some reviewers discount minor flaws when the overall quality is high.
+en_S003_c06_01	S003	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S003_c06_02	S003	impact	impact	2	Lack of sleep can impact your mood all day.
+en_S003_c06_03	S003	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S003_c06_04	S003	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S003_c07_01	S003	import	import	1	The price of import goods increased this month.
+en_S003_c07_02	S003	import	import	2	They import fresh fruit from overseas every week.
+en_S003_c07_03	S003	import	import	1	The latest import from Italy sold out within a few days.
+en_S003_c07_04	S003	import	import	2	Local companies import high-quality materials for this project.
+en_S003_c08_01	S003	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S003_c08_02	S003	increase	increase	2	We need to increase the room temperature a little.
+en_S003_c08_03	S003	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S003_c08_04	S003	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S003_c09_01	S003	insert	insert	1	The magazine includes an insert with photos inside.
+en_S003_c09_02	S003	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S003_c09_03	S003	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S003_c09_04	S003	insert	insert	2	He decided to insert a short example into the presentation slides.
+en_S003_c10_01	S003	insult	insult	1	The joke became an insult when he repeated it.
+en_S003_c10_02	S003	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S003_c10_03	S003	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S003_c10_04	S003	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S003_c11_01	S003	permit	permit	1	The parking area requires a permit for long stays.
+en_S003_c11_02	S003	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S003_c11_03	S003	permit	permit	1	A special permit for filming is required inside the building.
+en_S003_c11_04	S003	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S003_c12_01	S003	project	project	1	The final project caused a lot of stress for students.
+en_S003_c12_02	S003	project	project	2	Actors must project their voices during a play.
+en_S003_c12_03	S003	project	project	1	The new project in the lab focuses on child language learning.
+en_S003_c12_04	S003	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S003_c13_01	S003	survey	survey	1	The short survey included only five items.
+en_S003_c13_02	S003	survey	survey	2	Workers will survey the house before renovation.
+en_S003_c13_03	S003	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S003_c13_04	S003	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S003_c14_01	S003	transport	transport	1	Public transport in the city runs very smoothly.
+en_S003_c14_02	S003	transport	transport	2	Workers will transport the boxes to another floor.
+en_S003_c14_03	S003	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S003_c14_04	S003	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S003_c15_01	S003	upset	upset	1	The emotional upset can affect you for a long time.
+en_S003_c15_02	S003	upset	upset	2	Loud noises can upset the baby easily.
+en_S003_c15_03	S003	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S003_c15_04	S003	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S004_c01_01	S004	abstract	abstract	1	I read the abstract before the full article.
+en_S004_c01_02	S004	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S004_c01_03	S004	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S004_c01_04	S004	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S004_c02_01	S004	address	address	1	The form includes the address in the middle section.
+en_S004_c02_02	S004	address	address	2	We need to address the noise problem in the room.
+en_S004_c02_03	S004	address	address	1	The home address on the form matches his student record.
+en_S004_c02_04	S004	address	address	2	We should address the main concern before discussing details.
+en_S004_c03_01	S004	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S004_c03_02	S004	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S004_c03_03	S004	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S004_c03_04	S004	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S004_c04_01	S004	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S004_c04_02	S004	discharge	discharge	1	They will discharge the patient later today.
+en_S004_c04_03	S004	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S004_c04_04	S004	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S004_c05_01	S004	discount	discount	1	The store offered a discount during the weekend sale.
+en_S004_c05_02	S004	discount	discount	1	Some people discount his advice too quickly.
+en_S004_c05_03	S004	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S004_c05_04	S004	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S004_c06_01	S004	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S004_c06_02	S004	impact	impact	1	Lack of sleep can impact your mood all day.
+en_S004_c06_03	S004	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S004_c06_04	S004	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S004_c07_01	S004	import	import	1	The price of import goods increased this month.
+en_S004_c07_02	S004	import	import	1	They import fresh fruit from overseas every week.
+en_S004_c07_03	S004	import	import	1	The latest import from Italy sold out within a few days.
+en_S004_c07_04	S004	import	import	1	Local companies import high-quality materials for this project.
+en_S004_c08_01	S004	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S004_c08_02	S004	increase	increase	1	We need to increase the room temperature a little.
+en_S004_c08_03	S004	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S004_c08_04	S004	increase	increase	1	We hope to increase the sample size in the next experiment.
+en_S004_c09_01	S004	insert	insert	1	The magazine includes an insert with photos inside.
+en_S004_c09_02	S004	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S004_c09_03	S004	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S004_c09_04	S004	insert	insert	1	He decided to insert a short example into the presentation slides.
+en_S004_c10_01	S004	insult	insult	1	The joke became an insult when he repeated it.
+en_S004_c10_02	S004	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S004_c10_03	S004	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S004_c10_04	S004	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S004_c11_01	S004	permit	permit	1	The parking area requires a permit for long stays.
+en_S004_c11_02	S004	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S004_c11_03	S004	permit	permit	1	A special permit for filming is required inside the building.
+en_S004_c11_04	S004	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S004_c12_01	S004	project	project	1	The final project caused a lot of stress for students.
+en_S004_c12_02	S004	project	project	2	Actors must project their voices during a play.
+en_S004_c12_03	S004	project	project	1	The new project in the lab focuses on child language learning.
+en_S004_c12_04	S004	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S004_c13_01	S004	survey	survey	1	The short survey included only five items.
+en_S004_c13_02	S004	survey	survey	1	Workers will survey the house before renovation.
+en_S004_c13_03	S004	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S004_c13_04	S004	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S004_c14_01	S004	transport	transport	1	Public transport in the city runs very smoothly.
+en_S004_c14_02	S004	transport	transport	1	Workers will transport the boxes to another floor.
+en_S004_c14_03	S004	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S004_c14_04	S004	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S004_c15_01	S004	upset	upset	1	The emotional upset can affect you for a long time.
+en_S004_c15_02	S004	upset	upset	2	Loud noises can upset the baby easily.
+en_S004_c15_03	S004	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S004_c15_04	S004	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S005_c01_01	S005	abstract	abstract	2	I read the abstract before the full article.
+en_S005_c01_02	S005	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S005_c01_03	S005	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S005_c01_04	S005	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S005_c02_01	S005	address	address	2	The form includes the address in the middle section.
+en_S005_c02_02	S005	address	address	2	We need to address the noise problem in the room.
+en_S005_c02_03	S005	address	address	2	The home address on the form matches his student record.
+en_S005_c02_04	S005	address	address	2	We should address the main concern before discussing details.
+en_S005_c03_01	S005	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S005_c03_02	S005	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S005_c03_03	S005	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S005_c03_04	S005	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S005_c04_01	S005	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S005_c04_02	S005	discharge	discharge	1	They will discharge the patient later today.
+en_S005_c04_03	S005	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S005_c04_04	S005	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S005_c05_01	S005	discount	discount	1	The store offered a discount during the weekend sale.
+en_S005_c05_02	S005	discount	discount	2	Some people discount his advice too quickly.
+en_S005_c05_03	S005	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S005_c05_04	S005	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S005_c06_01	S005	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S005_c06_02	S005	impact	impact	2	Lack of sleep can impact your mood all day.
+en_S005_c06_03	S005	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S005_c06_04	S005	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S005_c07_01	S005	import	import	1	The price of import goods increased this month.
+en_S005_c07_02	S005	import	import	1	They import fresh fruit from overseas every week.
+en_S005_c07_03	S005	import	import	1	The latest import from Italy sold out within a few days.
+en_S005_c07_04	S005	import	import	2	Local companies import high-quality materials for this project.
+en_S005_c08_01	S005	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S005_c08_02	S005	increase	increase	1	We need to increase the room temperature a little.
+en_S005_c08_03	S005	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S005_c08_04	S005	increase	increase	1	We hope to increase the sample size in the next experiment.
+en_S005_c09_01	S005	insert	insert	1	The magazine includes an insert with photos inside.
+en_S005_c09_02	S005	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S005_c09_03	S005	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S005_c09_04	S005	insert	insert	2	He decided to insert a short example into the presentation slides.
+en_S005_c10_01	S005	insult	insult	1	The joke became an insult when he repeated it.
+en_S005_c10_02	S005	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S005_c10_03	S005	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S005_c10_04	S005	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S005_c11_01	S005	permit	permit	1	The parking area requires a permit for long stays.
+en_S005_c11_02	S005	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S005_c11_03	S005	permit	permit	1	A special permit for filming is required inside the building.
+en_S005_c11_04	S005	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S005_c12_01	S005	project	project	1	The final project caused a lot of stress for students.
+en_S005_c12_02	S005	project	project	2	Actors must project their voices during a play.
+en_S005_c12_03	S005	project	project	1	The new project in the lab focuses on child language learning.
+en_S005_c12_04	S005	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S005_c13_01	S005	survey	survey	1	The short survey included only five items.
+en_S005_c13_02	S005	survey	survey	2	Workers will survey the house before renovation.
+en_S005_c13_03	S005	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S005_c13_04	S005	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S005_c14_01	S005	transport	transport	1	Public transport in the city runs very smoothly.
+en_S005_c14_02	S005	transport	transport	1	Workers will transport the boxes to another floor.
+en_S005_c14_03	S005	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S005_c14_04	S005	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S005_c15_01	S005	upset	upset	1	The emotional upset can affect you for a long time.
+en_S005_c15_02	S005	upset	upset	2	Loud noises can upset the baby easily.
+en_S005_c15_03	S005	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S005_c15_04	S005	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S006_c01_01	S006	abstract	abstract	1	I read the abstract before the full article.
+en_S006_c01_02	S006	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S006_c01_03	S006	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S006_c01_04	S006	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S006_c02_01	S006	address	address	1	The form includes the address in the middle section.
+en_S006_c02_02	S006	address	address	2	We need to address the noise problem in the room.
+en_S006_c02_03	S006	address	address	2	The home address on the form matches his student record.
+en_S006_c02_04	S006	address	address	2	We should address the main concern before discussing details.
+en_S006_c03_01	S006	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S006_c03_02	S006	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S006_c03_03	S006	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S006_c03_04	S006	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S006_c04_01	S006	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S006_c04_02	S006	discharge	discharge	1	They will discharge the patient later today.
+en_S006_c04_03	S006	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S006_c04_04	S006	discharge	discharge	2	Nurses sometimes discharge patients once all documents are ready.
+en_S006_c05_01	S006	discount	discount	1	The store offered a discount during the weekend sale.
+en_S006_c05_02	S006	discount	discount	2	Some people discount his advice too quickly.
+en_S006_c05_03	S006	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S006_c05_04	S006	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S006_c06_01	S006	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S006_c06_02	S006	impact	impact	2	Lack of sleep can impact your mood all day.
+en_S006_c06_03	S006	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S006_c06_04	S006	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S006_c07_01	S006	import	import	1	The price of import goods increased this month.
+en_S006_c07_02	S006	import	import	1	They import fresh fruit from overseas every week.
+en_S006_c07_03	S006	import	import	1	The latest import from Italy sold out within a few days.
+en_S006_c07_04	S006	import	import	1	Local companies import high-quality materials for this project.
+en_S006_c08_01	S006	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S006_c08_02	S006	increase	increase	2	We need to increase the room temperature a little.
+en_S006_c08_03	S006	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S006_c08_04	S006	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S006_c09_01	S006	insert	insert	1	The magazine includes an insert with photos inside.
+en_S006_c09_02	S006	insert	insert	1	He tried to insert the card into the slot slowly.
+en_S006_c09_03	S006	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S006_c09_04	S006	insert	insert	2	He decided to insert a short example into the presentation slides.
+en_S006_c10_01	S006	insult	insult	2	The joke became an insult when he repeated it.
+en_S006_c10_02	S006	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S006_c10_03	S006	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S006_c10_04	S006	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S006_c11_01	S006	permit	permit	1	The parking area requires a permit for long stays.
+en_S006_c11_02	S006	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S006_c11_03	S006	permit	permit	1	A special permit for filming is required inside the building.
+en_S006_c11_04	S006	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S006_c12_01	S006	project	project	1	The final project caused a lot of stress for students.
+en_S006_c12_02	S006	project	project	2	Actors must project their voices during a play.
+en_S006_c12_03	S006	project	project	1	The new project in the lab focuses on child language learning.
+en_S006_c12_04	S006	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S006_c13_01	S006	survey	survey	1	The short survey included only five items.
+en_S006_c13_02	S006	survey	survey	2	Workers will survey the house before renovation.
+en_S006_c13_03	S006	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S006_c13_04	S006	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S006_c14_02	S006	transport	transport	1	Workers will transport the boxes to another floor.
+en_S006_c14_04	S006	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S006_c15_01	S006	upset	upset	1	The emotional upset can affect you for a long time.
+en_S006_c15_02	S006	upset	upset	2	Loud noises can upset the baby easily.
+en_S006_c15_03	S006	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S006_c15_04	S006	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S007_c01_01	S007	abstract	abstract	1	I read the abstract before the full article.
+en_S007_c01_02	S007	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S007_c01_03	S007	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S007_c01_04	S007	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S007_c02_01	S007	address	address	1	The form includes the address in the middle section.
+en_S007_c02_02	S007	address	address	2	We need to address the noise problem in the room.
+en_S007_c02_03	S007	address	address	2	The home address on the form matches his student record.
+en_S007_c02_04	S007	address	address	2	We should address the main concern before discussing details.
+en_S007_c03_01	S007	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S007_c03_02	S007	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S007_c03_03	S007	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S007_c03_04	S007	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S007_c04_01	S007	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S007_c04_02	S007	discharge	discharge	2	They will discharge the patient later today.
+en_S007_c04_03	S007	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S007_c04_04	S007	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S007_c05_01	S007	discount	discount	1	The store offered a discount during the weekend sale.
+en_S007_c05_02	S007	discount	discount	2	Some people discount his advice too quickly.
+en_S007_c05_03	S007	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S007_c05_04	S007	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S007_c06_01	S007	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S007_c06_02	S007	impact	impact	1	Lack of sleep can impact your mood all day.
+en_S007_c06_03	S007	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S007_c06_04	S007	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S007_c07_01	S007	import	import	1	The price of import goods increased this month.
+en_S007_c07_02	S007	import	import	1	They import fresh fruit from overseas every week.
+en_S007_c07_03	S007	import	import	1	The latest import from Italy sold out within a few days.
+en_S007_c07_04	S007	import	import	2	Local companies import high-quality materials for this project.
+en_S007_c08_01	S007	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S007_c08_02	S007	increase	increase	2	We need to increase the room temperature a little.
+en_S007_c08_03	S007	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S007_c08_04	S007	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S007_c09_01	S007	insert	insert	1	The magazine includes an insert with photos inside.
+en_S007_c09_02	S007	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S007_c09_03	S007	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S007_c09_04	S007	insert	insert	2	He decided to insert a short example into the presentation slides.
+en_S007_c10_01	S007	insult	insult	1	The joke became an insult when he repeated it.
+en_S007_c10_02	S007	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S007_c10_03	S007	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S007_c10_04	S007	insult	insult	1	They never meant to insult their colleagues during the discussion.
+en_S007_c11_01	S007	permit	permit	1	The parking area requires a permit for long stays.
+en_S007_c11_02	S007	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S007_c11_03	S007	permit	permit	1	A special permit for filming is required inside the building.
+en_S007_c11_04	S007	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S007_c12_01	S007	project	project	1	The final project caused a lot of stress for students.
+en_S007_c12_02	S007	project	project	2	Actors must project their voices during a play.
+en_S007_c12_03	S007	project	project	1	The new project in the lab focuses on child language learning.
+en_S007_c12_04	S007	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S007_c13_01	S007	survey	survey	1	The short survey included only five items.
+en_S007_c13_02	S007	survey	survey	1	Workers will survey the house before renovation.
+en_S007_c13_03	S007	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S007_c13_04	S007	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S007_c14_01	S007	transport	transport	1	Public transport in the city runs very smoothly.
+en_S007_c14_02	S007	transport	transport	1	Workers will transport the boxes to another floor.
+en_S007_c14_03	S007	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S007_c14_04	S007	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S007_c15_01	S007	upset	upset	1	The emotional upset can affect you for a long time.
+en_S007_c15_02	S007	upset	upset	2	Loud noises can upset the baby easily.
+en_S007_c15_03	S007	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S007_c15_04	S007	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S008_c01_01	S008	abstract	abstract	1	I read the abstract before the full article.
+en_S008_c01_02	S008	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S008_c01_03	S008	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S008_c01_04	S008	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S008_c02_01	S008	address	address	2	The form includes the address in the middle section.
+en_S008_c02_02	S008	address	address	1	We need to address the noise problem in the room.
+en_S008_c02_03	S008	address	address	1	The home address on the form matches his student record.
+en_S008_c02_04	S008	address	address	2	We should address the main concern before discussing details.
+en_S008_c03_01	S008	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S008_c03_02	S008	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S008_c03_03	S008	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S008_c03_04	S008	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S008_c04_01	S008	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S008_c04_02	S008	discharge	discharge	1	They will discharge the patient later today.
+en_S008_c04_03	S008	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S008_c04_04	S008	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S008_c05_01	S008	discount	discount	1	The store offered a discount during the weekend sale.
+en_S008_c05_02	S008	discount	discount	2	Some people discount his advice too quickly.
+en_S008_c05_03	S008	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S008_c05_04	S008	discount	discount	1	Some reviewers discount minor flaws when the overall quality is high.
+en_S008_c06_01	S008	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S008_c06_02	S008	impact	impact	1	Lack of sleep can impact your mood all day.
+en_S008_c06_03	S008	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S008_c06_04	S008	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S008_c07_01	S008	import	import	1	The price of import goods increased this month.
+en_S008_c07_02	S008	import	import	1	They import fresh fruit from overseas every week.
+en_S008_c07_03	S008	import	import	1	The latest import from Italy sold out within a few days.
+en_S008_c07_04	S008	import	import	1	Local companies import high-quality materials for this project.
+en_S008_c08_01	S008	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S008_c08_02	S008	increase	increase	2	We need to increase the room temperature a little.
+en_S008_c08_03	S008	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S008_c08_04	S008	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S008_c09_01	S008	insert	insert	1	The magazine includes an insert with photos inside.
+en_S008_c09_02	S008	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S008_c09_03	S008	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S008_c09_04	S008	insert	insert	2	He decided to insert a short example into the presentation slides.
+en_S008_c10_01	S008	insult	insult	1	The joke became an insult when he repeated it.
+en_S008_c10_02	S008	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S008_c10_03	S008	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S008_c10_04	S008	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S008_c11_01	S008	permit	permit	1	The parking area requires a permit for long stays.
+en_S008_c11_02	S008	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S008_c11_03	S008	permit	permit	1	A special permit for filming is required inside the building.
+en_S008_c11_04	S008	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S008_c12_01	S008	project	project	1	The final project caused a lot of stress for students.
+en_S008_c12_02	S008	project	project	2	Actors must project their voices during a play.
+en_S008_c12_03	S008	project	project	1	The new project in the lab focuses on child language learning.
+en_S008_c12_04	S008	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S008_c13_01	S008	survey	survey	1	The short survey included only five items.
+en_S008_c13_02	S008	survey	survey	1	Workers will survey the house before renovation.
+en_S008_c13_03	S008	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S008_c13_04	S008	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S008_c14_01	S008	transport	transport	1	Public transport in the city runs very smoothly.
+en_S008_c14_02	S008	transport	transport	1	Workers will transport the boxes to another floor.
+en_S008_c14_03	S008	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S008_c14_04	S008	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S008_c15_01	S008	upset	upset	1	The emotional upset can affect you for a long time.
+en_S008_c15_02	S008	upset	upset	2	Loud noises can upset the baby easily.
+en_S008_c15_03	S008	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S008_c15_04	S008	upset	upset	1	Harsh criticism can upset even very experienced researchers.
+en_S009_c01_01	S009	abstract	abstract	1	I read the abstract before the full article.
+en_S009_c01_02	S009	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S009_c01_03	S009	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S009_c01_04	S009	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S009_c02_01	S009	address	address	1	The form includes the address in the middle section.
+en_S009_c02_02	S009	address	address	2	We need to address the noise problem in the room.
+en_S009_c02_03	S009	address	address	1	The home address on the form matches his student record.
+en_S009_c02_04	S009	address	address	2	We should address the main concern before discussing details.
+en_S009_c03_01	S009	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S009_c03_02	S009	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S009_c03_03	S009	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S009_c03_04	S009	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S009_c04_01	S009	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S009_c04_02	S009	discharge	discharge	2	They will discharge the patient later today.
+en_S009_c04_03	S009	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S009_c04_04	S009	discharge	discharge	1	Nurses sometimes discharge patients once all documents are ready.
+en_S009_c05_01	S009	discount	discount	1	The store offered a discount during the weekend sale.
+en_S009_c05_02	S009	discount	discount	1	Some people discount his advice too quickly.
+en_S009_c05_03	S009	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S009_c05_04	S009	discount	discount	2	Some reviewers discount minor flaws when the overall quality is high.
+en_S009_c06_01	S009	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S009_c06_02	S009	impact	impact	1	Lack of sleep can impact your mood all day.
+en_S009_c06_03	S009	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S009_c06_04	S009	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S009_c07_01	S009	import	import	1	The price of import goods increased this month.
+en_S009_c07_02	S009	import	import	2	They import fresh fruit from overseas every week.
+en_S009_c07_03	S009	import	import	1	The latest import from Italy sold out within a few days.
+en_S009_c07_04	S009	import	import	1	Local companies import high-quality materials for this project.
+en_S009_c08_01	S009	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S009_c08_02	S009	increase	increase	2	We need to increase the room temperature a little.
+en_S009_c08_03	S009	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S009_c08_04	S009	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S009_c09_01	S009	insert	insert	1	The magazine includes an insert with photos inside.
+en_S009_c09_02	S009	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S009_c09_03	S009	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S009_c09_04	S009	insert	insert	1	He decided to insert a short example into the presentation slides.
+en_S009_c10_01	S009	insult	insult	1	The joke became an insult when he repeated it.
+en_S009_c10_02	S009	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S009_c10_03	S009	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S009_c10_04	S009	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S009_c11_01	S009	permit	permit	1	The parking area requires a permit for long stays.
+en_S009_c11_02	S009	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S009_c11_03	S009	permit	permit	1	A special permit for filming is required inside the building.
+en_S009_c11_04	S009	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S009_c12_01	S009	project	project	1	The final project caused a lot of stress for students.
+en_S009_c12_02	S009	project	project	2	Actors must project their voices during a play.
+en_S009_c12_03	S009	project	project	1	The new project in the lab focuses on child language learning.
+en_S009_c12_04	S009	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S009_c13_01	S009	survey	survey	2	The short survey included only five items.
+en_S009_c13_02	S009	survey	survey	1	Workers will survey the house before renovation.
+en_S009_c13_03	S009	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S009_c13_04	S009	survey	survey	1	Engineers will survey the bridge again after the heavy rain.
+en_S009_c14_01	S009	transport	transport	1	Public transport in the city runs very smoothly.
+en_S009_c14_02	S009	transport	transport	1	Workers will transport the boxes to another floor.
+en_S009_c14_03	S009	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S009_c14_04	S009	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S009_c15_01	S009	upset	upset	1	The emotional upset can affect you for a long time.
+en_S009_c15_02	S009	upset	upset	2	Loud noises can upset the baby easily.
+en_S009_c15_03	S009	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S009_c15_04	S009	upset	upset	2	Harsh criticism can upset even very experienced researchers.
+en_S010_c01_01	S010	abstract	abstract	1	I read the abstract before the full article.
+en_S010_c01_02	S010	abstract	abstract	2	It's hard to abstract the main idea from his long story.
+en_S010_c01_03	S010	abstract	abstract	1	She skimmed the abstract quickly before the seminar began.
+en_S010_c01_04	S010	abstract	abstract	2	He tried to abstract the key points for his summary later.
+en_S010_c02_01	S010	address	address	1	The form includes the address in the middle section.
+en_S010_c02_02	S010	address	address	2	We need to address the noise problem in the room.
+en_S010_c02_03	S010	address	address	2	The home address on the form matches his student record.
+en_S010_c02_04	S010	address	address	2	We should address the main concern before discussing details.
+en_S010_c03_01	S010	conduct	conduct	1	His conduct in the meeting surprised everyone.
+en_S010_c03_02	S010	conduct	conduct	2	They will conduct a short interview this afternoon.
+en_S010_c03_03	S010	conduct	conduct	1	Her professional conduct in the interview impressed the committee.
+en_S010_c03_04	S010	conduct	conduct	2	They plan to conduct the final test after lunch today.
+en_S010_c04_01	S010	discharge	discharge	1	The hospital handled the discharge without delay.
+en_S010_c04_02	S010	discharge	discharge	1	They will discharge the patient later today.
+en_S010_c04_03	S010	discharge	discharge	1	The early discharge of the patient surprised the medical staff.
+en_S010_c04_04	S010	discharge	discharge	2	Nurses sometimes discharge patients once all documents are ready.
+en_S010_c05_01	S010	discount	discount	1	The store offered a discount during the weekend sale.
+en_S010_c05_02	S010	discount	discount	2	Some people discount his advice too quickly.
+en_S010_c05_03	S010	discount	discount	1	The student discount on tickets makes the event more affordable.
+en_S010_c05_04	S010	discount	discount	2	Some reviewers discount minor flaws when the overall quality is high.
+en_S010_c06_01	S010	impact	impact	1	The heavy rain had a strong impact on our plan.
+en_S010_c06_02	S010	impact	impact	1	Lack of sleep can impact your mood all day.
+en_S010_c06_03	S010	impact	impact	1	The long-term impact of the policy remains difficult to predict.
+en_S010_c06_04	S010	impact	impact	1	Budget cuts may impact the quality of basic services over time.
+en_S010_c07_01	S010	import	import	1	The price of import goods increased this month.
+en_S010_c07_02	S010	import	import	1	They import fresh fruit from overseas every week.
+en_S010_c07_03	S010	import	import	1	The latest import from Italy sold out within a few days.
+en_S010_c07_04	S010	import	import	1	Local companies import high-quality materials for this project.
+en_S010_c08_01	S010	increase	increase	1	The sudden increase in traffic slowed the bus down.
+en_S010_c08_02	S010	increase	increase	2	We need to increase the room temperature a little.
+en_S010_c08_03	S010	increase	increase	1	The sharp increase in rent worried many residents in the area.
+en_S010_c08_04	S010	increase	increase	2	We hope to increase the sample size in the next experiment.
+en_S010_c09_01	S010	insert	insert	1	The magazine includes an insert with photos inside.
+en_S010_c09_02	S010	insert	insert	2	He tried to insert the card into the slot slowly.
+en_S010_c09_03	S010	insert	insert	1	A small insert in the magazine explains the updated rules.
+en_S010_c09_04	S010	insert	insert	1	He decided to insert a short example into the presentation slides.
+en_S010_c10_01	S010	insult	insult	1	The joke became an insult when he repeated it.
+en_S010_c10_02	S010	insult	insult	2	They didn’t mean to insult him during the talk.
+en_S010_c10_03	S010	insult	insult	1	That comment sounded like an insult to everyone at the table.
+en_S010_c10_04	S010	insult	insult	2	They never meant to insult their colleagues during the discussion.
+en_S010_c11_01	S010	permit	permit	1	The parking area requires a permit for long stays.
+en_S010_c11_02	S010	permit	permit	2	Most hotels permit smoking only on the balcony.
+en_S010_c11_03	S010	permit	permit	1	A special permit for filming is required inside the building.
+en_S010_c11_04	S010	permit	permit	2	Some museums permit visitors to take photos without flash.
+en_S010_c12_01	S010	project	project	1	The final project caused a lot of stress for students.
+en_S010_c12_02	S010	project	project	2	Actors must project their voices during a play.
+en_S010_c12_03	S010	project	project	1	The new project in the lab focuses on child language learning.
+en_S010_c12_04	S010	project	project	2	Good presenters project their voices clearly in large classrooms.
+en_S010_c13_01	S010	survey	survey	1	The short survey included only five items.
+en_S010_c13_02	S010	survey	survey	1	Workers will survey the house before renovation.
+en_S010_c13_03	S010	survey	survey	1	The online survey about study habits only takes a few minutes.
+en_S010_c13_04	S010	survey	survey	2	Engineers will survey the bridge again after the heavy rain.
+en_S010_c14_01	S010	transport	transport	1	Public transport in the city runs very smoothly.
+en_S010_c14_02	S010	transport	transport	1	Workers will transport the boxes to another floor.
+en_S010_c14_03	S010	transport	transport	1	Public transport in this region often becomes crowded at rush hour.
+en_S010_c14_04	S010	transport	transport	1	Volunteers will transport the equipment to the main hall tomorrow.
+en_S010_c15_01	S010	upset	upset	1	The emotional upset can affect you for a long time.
+en_S010_c15_02	S010	upset	upset	2	Loud noises can upset the baby easily.
+en_S010_c15_03	S010	upset	upset	1	The unexpected defeat was a serious upset for the favorite team.
+en_S010_c15_04	S010	upset	upset	2	Harsh criticism can upset even very experienced researchers.

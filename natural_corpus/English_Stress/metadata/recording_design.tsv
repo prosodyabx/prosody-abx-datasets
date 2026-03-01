@@ -1,0 +1,61 @@
+contrast_index	contrast	sid	word	text
+c01	abstract	01	abstract	I read the abstract before the full article.
+c01	abstract	02	abstract	It's hard to abstract the main idea from his long story.
+c01	abstract	03	abstract	She skimmed the abstract quickly before the seminar began.
+c01	abstract	04	abstract	He tried to abstract the key points for his summary later.
+c02	address	01	address	The form includes the address in the middle section.
+c02	address	02	address	We need to address the noise problem in the room.
+c02	address	03	address	The home address on the form matches his student record.
+c02	address	04	address	We should address the main concern before discussing details.
+c03	conduct	01	conduct	His conduct in the meeting surprised everyone.
+c03	conduct	02	conduct	They will conduct a short interview this afternoon.
+c03	conduct	03	conduct	Her professional conduct in the interview impressed the committee.
+c03	conduct	04	conduct	They plan to conduct the final test after lunch today.
+c04	discharge	01	discharge	The hospital handled the discharge without delay.
+c04	discharge	02	discharge	They will discharge the patient later today.
+c04	discharge	03	discharge	The early discharge of the patient surprised the medical staff.
+c04	discharge	04	discharge	Nurses sometimes discharge patients once all documents are ready.
+c05	discount	01	discount	The store offered a discount during the weekend sale.
+c05	discount	02	discount	Some people discount his advice too quickly.
+c05	discount	03	discount	The student discount on tickets makes the event more affordable.
+c05	discount	04	discount	Some reviewers discount minor flaws when the overall quality is high.
+c06	impact	01	impact	The heavy rain had a strong impact on our plan.
+c06	impact	02	impact	Lack of sleep can impact your mood all day.
+c06	impact	03	impact	The long-term impact of the policy remains difficult to predict.
+c06	impact	04	impact	Budget cuts may impact the quality of basic services over time.
+c07	import	01	import	The price of import goods increased this month.
+c07	import	02	import	They import fresh fruit from overseas every week.
+c07	import	03	import	The latest import from Italy sold out within a few days.
+c07	import	04	import	Local companies import high-quality materials for this project.
+c08	increase	01	increase	The sudden increase in traffic slowed the bus down.
+c08	increase	02	increase	We need to increase the room temperature a little.
+c08	increase	03	increase	The sharp increase in rent worried many residents in the area.
+c08	increase	04	increase	We hope to increase the sample size in the next experiment.
+c09	insert	01	insert	The magazine includes an insert with photos inside.
+c09	insert	02	insert	He tried to insert the card into the slot slowly.
+c09	insert	03	insert	A small insert in the magazine explains the updated rules.
+c09	insert	04	insert	He decided to insert a short example into the presentation slides.
+c10	insult	01	insult	The joke became an insult when he repeated it.
+c10	insult	02	insult	They didn’t mean to insult him during the talk.
+c10	insult	03	insult	That comment sounded like an insult to everyone at the table.
+c10	insult	04	insult	They never meant to insult their colleagues during the discussion.
+c11	permit	01	permit	The parking area requires a permit for long stays.
+c11	permit	02	permit	Most hotels permit smoking only on the balcony.
+c11	permit	03	permit	A special permit for filming is required inside the building.
+c11	permit	04	permit	Some museums permit visitors to take photos without flash.
+c12	project	01	project	The final project caused a lot of stress for students.
+c12	project	02	project	Actors must project their voices during a play.
+c12	project	03	project	The new project in the lab focuses on child language learning.
+c12	project	04	project	Good presenters project their voices clearly in large classrooms.
+c13	survey	01	survey	The short survey included only five items.
+c13	survey	02	survey	Workers will survey the house before renovation.
+c13	survey	03	survey	The online survey about study habits only takes a few minutes.
+c13	survey	04	survey	Engineers will survey the bridge again after the heavy rain.
+c14	transport	01	transport	Public transport in the city runs very smoothly.
+c14	transport	02	transport	Workers will transport the boxes to another floor.
+c14	transport	03	transport	Public transport in this region often becomes crowded at rush hour.
+c14	transport	04	transport	Volunteers will transport the equipment to the main hall tomorrow.
+c15	upset	01	upset	The emotional upset can affect you for a long time.
+c15	upset	02	upset	Loud noises can upset the baby easily.
+c15	upset	03	upset	The unexpected defeat was a serious upset for the favorite team.
+c15	upset	04	upset	Harsh criticism can upset even very experienced researchers.
