@@ -7,12 +7,12 @@ This repository provides the natural minimal pair corpora and experimental resul
 ## Overview
 
 - Evaluation metric: across-speaker Prosodic ABX error rate
-- Distance: Cosine-DTW (implemented in `fastabx`)
 - Languages/tasks:
   - English lexical stress
   - Japanese pitch accent
   - Mandarin lexical tone
 - Representations evaluated: 19 (acoustic + SSL models)
+- For the detailed Prosodic ABX methodology, please refer to the paper.
 
 ## Repository Contents
 
