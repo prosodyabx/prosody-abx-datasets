@@ -20,7 +20,4 @@ This repository provides the natural minimal pair corpora and experimental resul
 - `natural_corpus/Japanese_Pitch_Accent/README.md`
 - `prosody_abx_results/README.md`
 
-## Notes
 
-- Audio sample rate in the released corpora: 48 kHz.
-- Model-level and layer-wise ABX results are provided for 19 speech representations.
