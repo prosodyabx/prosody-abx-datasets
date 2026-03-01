@@ -1,6 +1,6 @@
 # Prosodic ABX – Experimental Results
 
-This directory contains prosodic ABX results on natural corpura for the paper:
+This directory contains prosodic ABX results on natural corpora for the paper:
 
 > **Prosodic ABX: A Language-Agnostic Training-Free Metric of Prosodic Contrast in Speech Representations**
 
@@ -26,9 +26,9 @@ The stress results are computed on a natural minimal-pair corpus recorded specif
 
 Details of the recording design, metadata, and preprocessing are documented in:
 
-- `natural_corpus/English_Stress/readme.md`
+- `natural_corpus/English_Stress/README.md`
 
-within this OSF project.
+in this repository.
 
 ---
 
@@ -42,9 +42,9 @@ The pitch accent results are computed on a natural minimal-pair corpus recorded 
 
 Recording protocol, alignment details, and annotation format are documented in:
 
-- `natural_corpus/Japanese_Pitch_Accent/readme.md`
+- `natural_corpus/Japanese_Pitch_Accent/README.md`
 
-within this OSF project.
+in this repository.
 
 ---
 

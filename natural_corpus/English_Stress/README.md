@@ -30,14 +30,7 @@ This setup allows comparison of how one speaker pronounces different stress patt
     - `utterances.tsv`
     - `segments.tsv`
     - `recording_design.tsv`
-  - `readme.md`
-
-## OSF Upload Note
-
-Audio files (`utterances` and `segments`) are uploaded as `.zip` archives because uploading a very large number of individual files to OSF is slow and may cause upload failures.
-
-Please unzip the archives before use.  
-The metadata files (`metadata/*.tsv`) reference utterance/segment IDs by file name.
+  - `README.md`
 
 ## Audio Files
 
