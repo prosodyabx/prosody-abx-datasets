@@ -1,11 +1,11 @@
-# English Natural Corpus (Lexical Stress in Noun/Verb Words)
+# English Natural Corpus (Lexical Stress Contrasts)
 
 This directory contains the natural (human-recorded) English corpus used in the Prosodic ABX experiments.
 
 ## Overview
 
 - Speakers: 10 native speakers of American English 
-- Target words: 15 English words that can be used as both nouns and verbs
+- Target words: 15 English words that can be used as both nouns and verbs with different lexical stress
 - Goal: collect noun/verb stress realizations of the same word from the same speaker
 
 In dictionary pronunciations, these words often show different stress patterns across parts of speech. The recording design is built to capture that contrast.
